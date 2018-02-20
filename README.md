@@ -1,3 +1,6 @@
 # sup-world
-tutorial repository/n
+tutorial repository
+
 this is totally a tutorial
+
+Сейчас будет немного русских буков!
